@@ -1,3 +1,3 @@
 # thingsinc
 
-aupe.3 is taken from here http://www.apuebook.com/code3e.html
+Initial commit of aupe.3 is based on the code: http://www.apuebook.com/code3e.html
