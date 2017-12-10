@@ -1,0 +1,5 @@
+This is based on the apue.3e code and is simply a work through of that code based on linux.
+
+Assumes the platform is Linux
+
+Type "make"

@@ -1,0 +1,9 @@
+# Common make definitions
+
+# On Linux platforms the c and cpp complier is called
+# gcc. However cc is typically linked to /usr/bin/gcc
+# In this case it is simply made explicit
+CC=gcc
+
+
+
